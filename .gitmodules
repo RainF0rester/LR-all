@@ -1,3 +1,9 @@
 [submodule "LR-backend"]
 	path = LR-backend
 	url = https://github.com/RainF0rester/LR-backend.git
+[submodule "LR-mobile"]
+	path = LR-mobile
+	url = https://github.com/RainF0rester/LR-mobile.git
+[submodule "LR-frontend"]
+	path = LR-frontend
+	url = https://github.com/RainF0rester/LR-frontend.git
