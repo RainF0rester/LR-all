@@ -1,0 +1,3 @@
+[submodule "LR-backend"]
+	path = LR-backend
+	url = https://github.com/RainF0rester/LR-backend.git
